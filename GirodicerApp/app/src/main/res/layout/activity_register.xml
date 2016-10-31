@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:layout_marginTop="75dp"
+        android:contentDescription="@string/app_logo"
+        android:src="@drawable/app_name"/>
+
+    <EditText
+        android:id="@+id/first_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="12"
+        android:focusable="true"
+        android:hint="@string/first_name"
+        android:imeOptions="actionNext"
+        android:inputType="textCapSentences"/>
+
+    <EditText
+        android:id="@+id/last_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/first_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="12"
+        android:focusable="true"
+        android:hint="@string/last_name"
+        android:imeOptions="actionNext"
+        android:inputType="textCapSentences"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/last_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="12"
+        android:hint="@string/password"
+        android:imeOptions="actionNext"
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:id="@+id/confirm_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="12"
+        android:focusable="true"
+        android:hint="@string/confirm_password"
+        android:imeOptions="actionNext"
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/confirm_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:ems="12"
+        android:hint="@string/email"
+        android:imeOptions="actionGo"
+        android:inputType="textEmailAddress"/>
+
+    <Button
+        android:id="@+id/create_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@id/password"
+        android:layout_alignStart="@id/password"
+        android:layout_below="@id/email"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:text="@string/create_account"/>
+
+    <TextView
+        android:id="@+id/go_to_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/create_account"
+        android:layout_centerHorizontal="true"
+        android:text="@string/go_to_sign_in"
+        android:textSize="16sp"/>
+</RelativeLayout>
