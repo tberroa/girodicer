@@ -22,13 +22,13 @@ The drone provides a safer and cheaper alternative to removing ice dams compared
 the dangers of manual removal or expensive roof heating solutions.
 
 # Demonstration Video
-![girodicer](assets/demo_video.png)
+![girodicer](assets/demo_video.png)  
 The demonstration video can be seen at https://youtu.be/1moHzR7YxcY. The video
 does not contain audio as it was used during a live presentation where my team
 and I spoke over the video.
 
 # Intel Cornell Cup Presentation
-![girodicer](assets/presentation_slide.png)
+![girodicer](assets/presentation_slide.png)  
 The Girodicer project was an Intel COrnell Cup 2016 finalist. The presentation my 
 team and I put together can be found at https://goo.gl/DkV9Kz.
 
