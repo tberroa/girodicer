@@ -30,7 +30,7 @@ and I spoke over the video.
 # Intel Cornell Cup Presentation
 ![girodicer](assets/presentation_slide.png)
 The Girodicer project was an Intel COrnell Cup 2016 finalist. The presentation my 
-team and I put together can be found at https://goo.gl/yNUlfs.
+team and I put together can be found at https://goo.gl/DkV9Kz.
 
 # License
 MIT License
