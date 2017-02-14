@@ -1,5 +1,6 @@
 # ![girodicer](GirodicerApp/app/src/main/res/drawable-hdpi/app_name.png)
-The Girodicer project served as my senior capstone project for Boston University.  
+The Girodicer project served as my senior capstone project for Boston University.
+
 This repository only contains the code for the Android mobile app portion of 
 the Girodicer project. The purpose of this repository is to preserve the code 
 I wrote just in case the original repository is taken down. The original 
