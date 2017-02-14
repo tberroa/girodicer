@@ -19,12 +19,18 @@ fabric sleeve onto an ice dam to prevent further damage to the roof. A smartphon
 app would serve as the interface for the user, displaying information such as 
 rooftop images and battery life. 
 
-The drone provides a safer and cheaper alternative to removing ice dams compared to the
-dangers of manual removal or expensive roof heating solutions.
+The drone provides a safer and cheaper alternative to removing ice dams compared to
+the dangers of manual removal or expensive roof heating solutions.
 
 # Demonstration Video
 ![girodicer](http://i64.tinypic.com/1zwiwlu.jpg)
-Demonstration video can be seen at https://youtu.be/1moHzR7YxcY.
+The demonstration video can be seen at https://youtu.be/1moHzR7YxcY. The video
+does not contain audio as it was used during a live presentation where my team
+and I spoke over the video.
+
+# Intel Cornell Cup Presentation
+The Girodicer project was an Intel COrnell Cup 2016 finalist. The presentation my 
+team and I put together can be found at https://goo.gl/yNUlfs.
 
 # License
 MIT License
