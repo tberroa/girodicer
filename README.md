@@ -3,7 +3,7 @@ The Girodicer project served as my senior capstone project at Boston University.
 
 This repository only contains the code for the Android mobile app portion of 
 the Girodicer project. The purpose of this repository is to preserve the code 
-I wrote just in case the original repository is taken down. The original 
+I wrote, just in case the original repository is taken down. The original 
 repository should be located at https://github.com/lasoren/ice-dam-drone. 
 
 # Project Description
